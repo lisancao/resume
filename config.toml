@@ -1,7 +1,7 @@
 # Page settings
 
-baseURL = "http://lisancao.github.io/resume"
-publishDir = "../lisancao.github.io/resume"
+baseURL = "http://lisancao.github.io"
+PublishDir = "../lisancao.github.io"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
