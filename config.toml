@@ -2,7 +2,7 @@
 
 baseURL = "http://lisancao.github.io"
 languageCode = "en"
-title = ""
+title = "LNC"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
