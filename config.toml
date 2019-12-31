@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://lisancao.github.io"
+baseURL = "http://lisancao.github.io/resume/"
 languageCode = "en"
 title = "LNC"
 theme = "hugo-devresume-theme"
